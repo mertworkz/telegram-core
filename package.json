@@ -1,0 +1,14 @@
+{
+  "name": "telegram_bot",
+  "version": "0.0.1",
+  "description": "writer mertworkz.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "mert",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.65.1"
+  }
+}
